@@ -1,4 +1,4 @@
-# Capstone Battle of Neighborhoods # Introduction-Business-problem
+# Capstone Battle of Neighborhoods / Introduction-Business-problem
 
 A Greek company is interested in investing in a Greek restaurant somewhere in London.
 They do not care about where in London exactly. They care only in having good returns from their investment. In order to do that, they ask from us to find the best place in London in order to build the proposed type of restaurant. 
